@@ -1,1 +1,1 @@
-# gmail_bot_teste
+Bot de teste para envio de e-mails através do selenium e python .
